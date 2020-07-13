@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+I enjoy learning about:
+1. VBA
+1. Linux
+1. Productivity
